@@ -1082,13 +1082,13 @@ class Mission
 						items=4;
 						class Item0
 						{
-							value="76561197983658369";
+							value="";
 							parentCls="ModuleCurator_F";
 							typeName="Owner";
 						};
 						class Item1
 						{
-							value="Hoax Zeus";
+							value="Zeus14 Zeus";
 							parentCls="ModuleCurator_F";
 							typeName="Name";
 						};
@@ -1111,7 +1111,7 @@ class Mission
 					leader=1;
 					lock="UNLOCKED";
 					skill=0.60000002;
-					text="hoax";
+					text="Zeus14";
 					init="[this, [-1, -2, 0]] call bis_fnc_setcuratorvisionmodes;";
 					syncId=55;
 					synchronizations[]={70};
@@ -1132,13 +1132,13 @@ class Mission
 						items=4;
 						class Item0
 						{
-							value="76561197998355936";
+							value="";
 							parentCls="ModuleCurator_F";
 							typeName="Owner";
 						};
 						class Item1
 						{
-							value="Trigger Zeus";
+							value="Zeus13 Zeus";
 							parentCls="ModuleCurator_F";
 							typeName="Name";
 						};
@@ -1161,7 +1161,7 @@ class Mission
 					leader=1;
 					lock="UNLOCKED";
 					skill=0.60000002;
-					text="Cain";
+					text="Zeus13";
 					init="[this, [-1, -2, 0]] call bis_fnc_setcuratorvisionmodes;";
 					syncId=56;
 					synchronizations[]={70};
@@ -1182,13 +1182,13 @@ class Mission
 						items=4;
 						class Item0
 						{
-							value="76561198054120913";
+							value="";
 							parentCls="ModuleCurator_F";
 							typeName="Owner";
 						};
 						class Item1
 						{
-							value="Zissy Zeus";
+							value="Zeus8 Zeus";
 							parentCls="ModuleCurator_F";
 							typeName="Name";
 						};
@@ -1211,7 +1211,7 @@ class Mission
 					leader=1;
 					lock="UNLOCKED";
 					skill=0.60000002;
-					text="Ziss";
+					text="Zeus8";
 					init="[this, [-1, -2, 0]] call bis_fnc_setcuratorvisionmodes;";
 					syncId=57;
 					synchronizations[]={70};
@@ -1232,13 +1232,13 @@ class Mission
 						items=4;
 						class Item0
 						{
-							value="76561198058389301";
+							value="";
 							parentCls="ModuleCurator_F";
 							typeName="Owner";
 						};
 						class Item1
 						{
-							value="sheep zeus";
+							value="Zeus1 zeus";
 							parentCls="ModuleCurator_F";
 							typeName="Name";
 						};
@@ -1261,7 +1261,7 @@ class Mission
 					leader=1;
 					lock="UNLOCKED";
 					skill=0.60000002;
-					text="Sheep";
+					text="Zeus1";
 					init="[this, [-1, -2, 0]] call bis_fnc_setcuratorvisionmodes;";
 					syncId=58;
 					synchronizations[]={70};
@@ -1282,13 +1282,13 @@ class Mission
 						items=4;
 						class Item0
 						{
-							value="76561198001522951";
+							value="";
 							parentCls="ModuleCurator_F";
 							typeName="Owner";
 						};
 						class Item1
 						{
-							value="Zeus";
+							value="Zeus7 Zeus";
 							parentCls="ModuleCurator_F";
 							typeName="Name";
 						};
@@ -1311,7 +1311,7 @@ class Mission
 					leader=1;
 					lock="UNLOCKED";
 					skill=0.60000002;
-					text="raz";
+					text="Zeus7";
 					init="[this, [-1, -2, 0]] call bis_fnc_setcuratorvisionmodes;";
 					syncId=59;
 					synchronizations[]={70};
@@ -1332,13 +1332,13 @@ class Mission
 						items=4;
 						class Item0
 						{
-							value="76561198085765221";
+							value="";
 							parentCls="ModuleCurator_F";
 							typeName="Owner";
 						};
 						class Item1
 						{
-							value="Mykey Zeus";
+							value="Zeus2 Zeus";
 							parentCls="ModuleCurator_F";
 							typeName="Name";
 						};
@@ -1361,7 +1361,7 @@ class Mission
 					leader=1;
 					lock="UNLOCKED";
 					skill=0.60000002;
-					text="Mykey";
+					text="Zeus2";
 					init="[this, [-1, -2, 0]] call bis_fnc_setcuratorvisionmodes;";
 					syncId=60;
 					synchronizations[]={70};
@@ -1382,13 +1382,13 @@ class Mission
 						items=4;
 						class Item0
 						{
-							value="76561198022163272";
+							value="";
 							parentCls="ModuleCurator_F";
 							typeName="Owner";
 						};
 						class Item1
 						{
-							value="David Zeus";
+							value="Zeus3 Zeus";
 							parentCls="ModuleCurator_F";
 							typeName="Name";
 						};
@@ -1411,7 +1411,7 @@ class Mission
 					leader=1;
 					lock="UNLOCKED";
 					skill=0.60000002;
-					text="David";
+					text="Zeus3";
 					init="[this, [-1, -2, 0]] call bis_fnc_setcuratorvisionmodes;";
 					syncId=61;
 					synchronizations[]={70};
@@ -1432,13 +1432,13 @@ class Mission
 						items=4;
 						class Item0
 						{
-							value="76561198043550034";
+							value="";
 							parentCls="ModuleCurator_F";
 							typeName="Owner";
 						};
 						class Item1
 						{
-							value="Zeus";
+							value="Zeus9 Zeus";
 							parentCls="ModuleCurator_F";
 							typeName="Name";
 						};
@@ -1461,7 +1461,7 @@ class Mission
 					leader=1;
 					lock="UNLOCKED";
 					skill=0.60000002;
-					text="Danne";
+					text="Zeus9";
 					init="[this, [-1, -2, 0]] call bis_fnc_setcuratorvisionmodes;";
 					syncId=62;
 					synchronizations[]={70};
@@ -1482,13 +1482,13 @@ class Mission
 						items=4;
 						class Item0
 						{
-							value="76561198023528482";
+							value="";
 							parentCls="ModuleCurator_F";
 							typeName="Owner";
 						};
 						class Item1
 						{
-							value="Bacon Zeus";
+							value="Zeus10 Zeus";
 							parentCls="ModuleCurator_F";
 							typeName="Name";
 						};
@@ -1511,7 +1511,7 @@ class Mission
 					leader=1;
 					lock="UNLOCKED";
 					skill=0.60000002;
-					text="Bacon";
+					text="Zeus10";
 					init="[this, [-1, -2, 0]] call bis_fnc_setcuratorvisionmodes;";
 					syncId=63;
 					synchronizations[]={70};
@@ -1532,13 +1532,13 @@ class Mission
 						items=4;
 						class Item0
 						{
-							value="76561198039531022";
+							value="";
 							parentCls="ModuleCurator_F";
 							typeName="Owner";
 						};
 						class Item1
 						{
-							value="Elcour Zeus";
+							value="Zeus4 Zeus";
 							parentCls="ModuleCurator_F";
 							typeName="Name";
 						};
@@ -1561,7 +1561,7 @@ class Mission
 					leader=1;
 					lock="UNLOCKED";
 					skill=0.60000002;
-					text="Elcour";
+					text="Zeus4";
 					init="[this, [-1, -2, 0]] call bis_fnc_setcuratorvisionmodes;";
 					syncId=64;
 					synchronizations[]={70};
@@ -1582,13 +1582,13 @@ class Mission
 						items=4;
 						class Item0
 						{
-							value="76561198004408914";
+							value="";
 							parentCls="ModuleCurator_F";
 							typeName="Owner";
 						};
 						class Item1
 						{
-							value="Repeatz Zeus";
+							value="Zeus5 Zeus";
 							parentCls="ModuleCurator_F";
 							typeName="Name";
 						};
@@ -1611,7 +1611,7 @@ class Mission
 					leader=1;
 					lock="UNLOCKED";
 					skill=0.60000002;
-					text="Repeatz";
+					text="Zeus5";
 					init="[this, [-1, -2, 0]] call bis_fnc_setcuratorvisionmodes;";
 					syncId=65;
 					synchronizations[]={70};
@@ -1632,13 +1632,13 @@ class Mission
 						items=4;
 						class Item0
 						{
-							value="76561198080680196";
+							value="";
 							parentCls="ModuleCurator_F";
 							typeName="Owner";
 						};
 						class Item1
 						{
-							value="Dingo Zeus";
+							value="Zeus6 Zeus";
 							parentCls="ModuleCurator_F";
 							typeName="Name";
 						};
@@ -1661,7 +1661,7 @@ class Mission
 					leader=1;
 					lock="UNLOCKED";
 					skill=0.60000002;
-					text="Dingo";
+					text="Zeus6";
 					init="[this, [-1, -2, 0]] call bis_fnc_setcuratorvisionmodes;";
 					syncId=66;
 					synchronizations[]={70};
@@ -1676,19 +1676,19 @@ class Mission
 				items=1;
 				class Item0
 				{
-					position[]={16197.605,-0.0063079498,14589.652};
+					position[]={16197.605,-0.068926729,14589.652};
 					class args
 					{
 						items=4;
 						class Item0
 						{
-							value="76561198073410815";
+							value="";
 							parentCls="ModuleCurator_F";
 							typeName="Owner";
 						};
 						class Item1
 						{
-							value="Leutin Zeus";
+							value="Zeus21 Zeus";
 							parentCls="ModuleCurator_F";
 							typeName="Name";
 						};
@@ -1711,7 +1711,7 @@ class Mission
 					leader=1;
 					lock="UNLOCKED";
 					skill=0.60000002;
-					text="Leutin";
+					text="Zeus21";
 					init="[this, [-1, -2, 0]] call bis_fnc_setcuratorvisionmodes;";
 					syncId=67;
 					synchronizations[]={70};
@@ -1732,13 +1732,13 @@ class Mission
 						items=4;
 						class Item0
 						{
-							value="76561198079640023";
+							value="";
 							parentCls="ModuleCurator_F";
 							typeName="Owner";
 						};
 						class Item1
 						{
-							value="Liabilities Zeus";
+							value="Zeus12 Zeus";
 							parentCls="ModuleCurator_F";
 							typeName="Name";
 						};
@@ -1761,7 +1761,7 @@ class Mission
 					leader=1;
 					lock="UNLOCKED";
 					skill=0.60000002;
-					text="Liabil";
+					text="Zeus12";
 					init="[this, [-1, -2, 0]] call bis_fnc_setcuratorvisionmodes;";
 					syncId=68;
 					synchronizations[]={70};
@@ -1782,13 +1782,13 @@ class Mission
 						items=4;
 						class Item0
 						{
-							value="76561197961923793";
+							value="";
 							parentCls="ModuleCurator_F";
 							typeName="Owner";
 						};
 						class Item1
 						{
-							value="Christiansen Zeus";
+							value="Zeus11 Zeus";
 							parentCls="ModuleCurator_F";
 							typeName="Name";
 						};
@@ -1811,7 +1811,7 @@ class Mission
 					leader=1;
 					lock="UNLOCKED";
 					skill=0.60000002;
-					text="Christi";
+					text="Zeus11";
 					init="[this, [-1, -2, 0]] call bis_fnc_setcuratorvisionmodes;";
 					syncId=69;
 					synchronizations[]={70};
@@ -1963,13 +1963,13 @@ class Mission
 						items=4;
 						class Item0
 						{
-							value="76561198043867265";
+							value="";
 							parentCls="ModuleCurator_F";
 							typeName="Owner";
 						};
 						class Item1
 						{
-							value="Zeus";
+							value="Zeus15 Zeus";
 							parentCls="ModuleCurator_F";
 							typeName="Name";
 						};
@@ -1992,7 +1992,7 @@ class Mission
 					leader=1;
 					lock="UNLOCKED";
 					skill=0.60000002;
-					text="jester";
+					text="Zeus15";
 					init="[this, [-1, -2, 0]] call bis_fnc_setcuratorvisionmodes;";
 					syncId=71;
 					synchronizations[]={70};
@@ -2013,13 +2013,13 @@ class Mission
 						items=4;
 						class Item0
 						{
-							value="76561198086257618";
+							value="";
 							parentCls="ModuleCurator_F";
 							typeName="Owner";
 						};
 						class Item1
 						{
-							value="Zeus";
+							value="Zeus16 Zeus";
 							parentCls="ModuleCurator_F";
 							typeName="Name";
 						};
@@ -2042,7 +2042,7 @@ class Mission
 					leader=1;
 					lock="UNLOCKED";
 					skill=0.60000002;
-					text="kamaradski";
+					text="Zeus16";
 					init="[this, [-1, -2, 0]] call bis_fnc_setcuratorvisionmodes;";
 					syncId=72;
 					synchronizations[]={70};
@@ -2063,7 +2063,7 @@ class Mission
 						items=4;
 						class Item0
 						{
-							value="76561198029008449";
+							value="76561197969419820";
 							parentCls="ModuleCurator_F";
 							typeName="Owner";
 						};
@@ -2092,7 +2092,7 @@ class Mission
 					leader=1;
 					lock="UNLOCKED";
 					skill=0.60000002;
-					text="Danny";
+					text="Anton";
 					init="[this, [-1, -2, 0]] call bis_fnc_setcuratorvisionmodes;";
 					syncId=73;
 					synchronizations[]={70};
@@ -2266,13 +2266,13 @@ class Mission
 						items=4;
 						class Item0
 						{
-							value="76561198025462985";
+							value="";
 							parentCls="ModuleCurator_F";
 							typeName="Owner";
 						};
 						class Item1
 						{
-							value="Spartan Pepperman";
+							value="Zeus18 Zeus";
 							parentCls="ModuleCurator_F";
 							typeName="Name";
 						};
@@ -2295,7 +2295,7 @@ class Mission
 					leader=1;
 					lock="UNLOCKED";
 					skill=0.60000002;
-					text="Pepperman";
+					text="Zeus18";
 					init="[this, [-1, -2, 0]] call bis_fnc_setcuratorvisionmodes;";
 					syncId=74;
 					synchronizations[]={70};
@@ -2316,13 +2316,13 @@ class Mission
 						items=4;
 						class Item0
 						{
-							value="76561198103515291";
+							value="";
 							parentCls="ModuleCurator_F";
 							typeName="Owner";
 						};
 						class Item1
 						{
-							value="Spartan Alganthe";
+							value="Zeus19 Zeus";
 							parentCls="ModuleCurator_F";
 							typeName="Name";
 						};
@@ -2345,7 +2345,7 @@ class Mission
 					leader=1;
 					lock="UNLOCKED";
 					skill=0.60000002;
-					text="Alganthe";
+					text="Zeus19";
 					init="[this, [-1, -2, 0]] call bis_fnc_setcuratorvisionmodes;";
 					syncId=75;
 					synchronizations[]={70};
@@ -2366,13 +2366,13 @@ class Mission
 						items=4;
 						class Item0
 						{
-							value="76561198016928867";
+							value="";
 							parentCls="ModuleCurator_F";
 							typeName="Owner";
 						};
 						class Item1
 						{
-							value="Spartan Greeneyes";
+							value="Zeus20 Zeus";
 							parentCls="ModuleCurator_F";
 							typeName="Name";
 						};
@@ -2395,7 +2395,7 @@ class Mission
 					leader=1;
 					lock="UNLOCKED";
 					skill=0.60000002;
-					text="Greeneyes";
+					text="Zeus20";
 					init="[this, [-1, -2, 0]] call bis_fnc_setcuratorvisionmodes;";
 					syncId=76;
 					synchronizations[]={70};
@@ -2416,13 +2416,13 @@ class Mission
 						items=4;
 						class Item0
 						{
-							value="76561197980032453";
+							value="";
 							parentCls="ModuleCurator_F";
 							typeName="Owner";
 						};
 						class Item1
 						{
-							value="Zeus";
+							value="Zeus17 Zeus";
 							parentCls="ModuleCurator_F";
 							typeName="Name";
 						};
@@ -2445,7 +2445,7 @@ class Mission
 					leader=1;
 					lock="UNLOCKED";
 					skill=0.60000002;
-					text="LaForte";
+					text="Zeus17";
 					init="[this, [-1, -2, 0]] call bis_fnc_setcuratorvisionmodes;";
 					syncId=77;
 					synchronizations[]={70};
