@@ -988,8 +988,8 @@ class Mission
 					leader=1;
 					rank="LIEUTENANT";
 					skill=0.60000002;
-					init="(group this) setGroupId [""SA""];";
-					description="Sniper Team Alpha - Spotter";
+					init="(group this) setGroupId [""Ghost""];";
+					description="Sniper Team Ghost - Spotter";
 					syncId=51;
 					synchronizations[]={70};
 				};
@@ -1004,7 +1004,7 @@ class Mission
 					player="PLAY CDG";
 					rank="CORPORAL";
 					skill=0.60000002;
-					description="Sniper Team Alpha - Sniper";
+					description="Sniper Team Ghost - Sniper";
 					syncId=52;
 					synchronizations[]={70};
 				};
@@ -1027,7 +1027,7 @@ class Mission
 					player="PLAY CDG";
 					rank="CORPORAL";
 					skill=0.60000002;
-					description="Sniper Team Bravo - Spotter";
+					description="Sniper Team Phantom - Spotter";
 					syncId=53;
 					synchronizations[]={70};
 				};
@@ -1043,8 +1043,8 @@ class Mission
 					leader=1;
 					rank="SERGEANT";
 					skill=0.60000002;
-					init="(group this) setGroupId [""SB""];";
-					description="Sniper Team Bravo - Sniper";
+					init="(group this) setGroupId [""Phantom""];";
+					description="Sniper Team Phantom - Sniper";
 					syncId=54;
 					synchronizations[]={70};
 				};
@@ -1088,7 +1088,7 @@ class Mission
 						};
 						class Item1
 						{
-							value="Zeus14 Zeus";
+							value="";
 							parentCls="ModuleCurator_F";
 							typeName="Name";
 						};
@@ -1138,7 +1138,7 @@ class Mission
 						};
 						class Item1
 						{
-							value="Zeus13 Zeus";
+							value="";
 							parentCls="ModuleCurator_F";
 							typeName="Name";
 						};
@@ -1188,7 +1188,7 @@ class Mission
 						};
 						class Item1
 						{
-							value="Zeus8 Zeus";
+							value="";
 							parentCls="ModuleCurator_F";
 							typeName="Name";
 						};
@@ -1238,7 +1238,7 @@ class Mission
 						};
 						class Item1
 						{
-							value="Taylor Zeus";
+							value="";
 							parentCls="ModuleCurator_F";
 							typeName="Name";
 						};
@@ -1288,7 +1288,7 @@ class Mission
 						};
 						class Item1
 						{
-							value="Zeus7 Zeus";
+							value="";
 							parentCls="ModuleCurator_F";
 							typeName="Name";
 						};
@@ -1338,7 +1338,7 @@ class Mission
 						};
 						class Item1
 						{
-							value="Wayne Zeus";
+							value="";
 							parentCls="ModuleCurator_F";
 							typeName="Name";
 						};
@@ -1388,7 +1388,7 @@ class Mission
 						};
 						class Item1
 						{
-							value="Charles Zeus";
+							value="";
 							parentCls="ModuleCurator_F";
 							typeName="Name";
 						};
@@ -1438,7 +1438,7 @@ class Mission
 						};
 						class Item1
 						{
-							value="Zeus9 Zeus";
+							value="";
 							parentCls="ModuleCurator_F";
 							typeName="Name";
 						};
@@ -1488,7 +1488,7 @@ class Mission
 						};
 						class Item1
 						{
-							value="Zeus10 Zeus";
+							value="";
 							parentCls="ModuleCurator_F";
 							typeName="Name";
 						};
@@ -1538,7 +1538,7 @@ class Mission
 						};
 						class Item1
 						{
-							value="Zeus4 Zeus";
+							value="";
 							parentCls="ModuleCurator_F";
 							typeName="Name";
 						};
@@ -1588,7 +1588,7 @@ class Mission
 						};
 						class Item1
 						{
-							value="Zeus5 Zeus";
+							value="";
 							parentCls="ModuleCurator_F";
 							typeName="Name";
 						};
@@ -1638,7 +1638,7 @@ class Mission
 						};
 						class Item1
 						{
-							value="Zeus6 Zeus";
+							value="";
 							parentCls="ModuleCurator_F";
 							typeName="Name";
 						};
@@ -1688,7 +1688,7 @@ class Mission
 						};
 						class Item1
 						{
-							value="Zeus21 Zeus";
+							value="";
 							parentCls="ModuleCurator_F";
 							typeName="Name";
 						};
@@ -1738,7 +1738,7 @@ class Mission
 						};
 						class Item1
 						{
-							value="Zeus12 Zeus";
+							value="";
 							parentCls="ModuleCurator_F";
 							typeName="Name";
 						};
@@ -1788,7 +1788,7 @@ class Mission
 						};
 						class Item1
 						{
-							value="Zeus11 Zeus";
+							value="";
 							parentCls="ModuleCurator_F";
 							typeName="Name";
 						};
@@ -1969,7 +1969,7 @@ class Mission
 						};
 						class Item1
 						{
-							value="Zeus15 Zeus";
+							value="";
 							parentCls="ModuleCurator_F";
 							typeName="Name";
 						};
@@ -2019,7 +2019,7 @@ class Mission
 						};
 						class Item1
 						{
-							value="Zeus16 Zeus";
+							value="";
 							parentCls="ModuleCurator_F";
 							typeName="Name";
 						};
@@ -2069,7 +2069,7 @@ class Mission
 						};
 						class Item1
 						{
-							value="Danny Zeus";
+							value="";
 							parentCls="ModuleCurator_F";
 							typeName="Name";
 						};
@@ -2272,7 +2272,7 @@ class Mission
 						};
 						class Item1
 						{
-							value="Zeus18 Zeus";
+							value="";
 							parentCls="ModuleCurator_F";
 							typeName="Name";
 						};
@@ -2322,7 +2322,7 @@ class Mission
 						};
 						class Item1
 						{
-							value="Zeus19 Zeus";
+							value="";
 							parentCls="ModuleCurator_F";
 							typeName="Name";
 						};
@@ -2372,7 +2372,7 @@ class Mission
 						};
 						class Item1
 						{
-							value="Zeus20 Zeus";
+							value="";
 							parentCls="ModuleCurator_F";
 							typeName="Name";
 						};
@@ -2422,7 +2422,7 @@ class Mission
 						};
 						class Item1
 						{
-							value="Zeus17 Zeus";
+							value="";
 							parentCls="ModuleCurator_F";
 							typeName="Name";
 						};
@@ -2471,7 +2471,7 @@ class Mission
 					rank="SERGEANT";
 					skill=0.5;
 					init="(group this) setGroupId [""CLS""];";
-					description="CLS Team Leader";
+					description="Angel Team Leader";
 					syncId=78;
 					synchronizations[]={70};
 				};
@@ -2486,7 +2486,7 @@ class Mission
 					player="PLAY CDG";
 					rank="CORPORAL";
 					skill=0.44999999;
-					description="CLA Autorifleman";
+					description="Angel Autorifleman";
 					syncId=79;
 					synchronizations[]={70};
 				};
@@ -2500,7 +2500,7 @@ class Mission
 					vehicle="B_medic_F";
 					player="PLAY CDG";
 					skill=0.40000001;
-					description="CLS Medic";
+					description="Angel Medic";
 					syncId=80;
 					synchronizations[]={70};
 				};
@@ -2514,7 +2514,7 @@ class Mission
 					vehicle="B_medic_F";
 					player="PLAY CDG";
 					skill=0.40000001;
-					description="CLS Medic";
+					description="Angel Medic";
 					syncId=81;
 					synchronizations[]={70};
 				};
@@ -2559,7 +2559,7 @@ class Mission
 					rank="CORPORAL";
 					skill=0.60000002;
 					text="uavOperator";
-					description="UAV Operator - Deathstar";
+					description="UAV Operator - Owl";
 					syncId=82;
 					synchronizations[]={70};
 				};
@@ -2575,8 +2575,8 @@ class Mission
 					leader=1;
 					rank="LIEUTENANT";
 					skill=0.60000002;
-					init="(group this) setGroupId [""VORTEX""];";
-					description="Vortex Pilot (TS3: www.jointtaskforce2.com)";
+					init="(group this) setGroupId [""Air""];";
+					description="Albatross-1 Transport Pilot (TS3: www.jointtaskforce2.com)";
 					syncId=83;
 					synchronizations[]={70};
 				};
@@ -2591,7 +2591,7 @@ class Mission
 					player="PLAY CDG";
 					rank="SERGEANT";
 					skill=0.60000002;
-					description="Vortex Pilot (TS3: www.jointtaskforce2.com)";
+					description="Albatross-2 Transport Pilot (TS3: www.jointtaskforce2.com)";
 					syncId=84;
 					synchronizations[]={70};
 				};
@@ -2605,7 +2605,7 @@ class Mission
 					vehicle="B_Helipilot_F";
 					player="PLAY CDG";
 					skill=0.60000002;
-					description="Vortex Pilot (TS3: www.jointtaskforce2.com)";
+					description="Angel-1 Medivac Pilot (TS3: www.jointtaskforce2.com)";
 					syncId=85;
 					synchronizations[]={70};
 				};
@@ -2620,7 +2620,7 @@ class Mission
 					player="PLAY CDG";
 					rank="CORPORAL";
 					skill=0.60000002;
-					description="Vortex Pilot (TS3: www.jointtaskforce2.com)";
+					description="Reaper-1 CAS Pilot (TS3: www.jointtaskforce2.com)";
 					syncId=86;
 					synchronizations[]={70};
 				};
@@ -2632,7 +2632,7 @@ class Mission
 					vehicle="B_Helipilot_F";
 					player="PLAY CDG";
 					skill=0.60000002;
-					description="Vortex Pilot (TS3: www.jointtaskforce2.com)";
+					description="Reaper-2 CAS Pilot (TS3: www.jointtaskforce2.com)";
 					syncId=87;
 					synchronizations[]={70};
 				};
