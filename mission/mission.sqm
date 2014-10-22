@@ -144,7 +144,7 @@ class Mission
 	class Intel
 	{
 		briefingName="Co-60 AW Invade & Annex 2.79E";
-		overviewText="Version 2.79";
+		overviewText="Version 2.79 (JTF2 v.0)";
 		resistanceWest=0;
 		resistanceEast=1;
 		timeOfChanges=28800;
@@ -2576,7 +2576,7 @@ class Mission
 					rank="LIEUTENANT";
 					skill=0.60000002;
 					init="(group this) setGroupId [""VORTEX""];";
-					description="Vortex Pilot (TS3: ts.ahoyworld.co.uk)";
+					description="Vortex Pilot (TS3: www.jointtaskforce2.com)";
 					syncId=83;
 					synchronizations[]={70};
 				};
@@ -2591,7 +2591,7 @@ class Mission
 					player="PLAY CDG";
 					rank="SERGEANT";
 					skill=0.60000002;
-					description="Vortex Pilot (TS3: ts.ahoyworld.co.uk)";
+					description="Vortex Pilot (TS3: www.jointtaskforce2.com)";
 					syncId=84;
 					synchronizations[]={70};
 				};
@@ -2605,7 +2605,7 @@ class Mission
 					vehicle="B_Helipilot_F";
 					player="PLAY CDG";
 					skill=0.60000002;
-					description="Vortex Pilot (TS3: ts.ahoyworld.co.uk)";
+					description="Vortex Pilot (TS3: www.jointtaskforce2.com)";
 					syncId=85;
 					synchronizations[]={70};
 				};
@@ -2620,7 +2620,7 @@ class Mission
 					player="PLAY CDG";
 					rank="CORPORAL";
 					skill=0.60000002;
-					description="Vortex Pilot (TS3: ts.ahoyworld.co.uk)";
+					description="Vortex Pilot (TS3: www.jointtaskforce2.com)";
 					syncId=86;
 					synchronizations[]={70};
 				};
@@ -2632,7 +2632,7 @@ class Mission
 					vehicle="B_Helipilot_F";
 					player="PLAY CDG";
 					skill=0.60000002;
-					description="Vortex Pilot (TS3: ts.ahoyworld.co.uk)";
+					description="Vortex Pilot (TS3: www.jointtaskforce2.com)";
 					syncId=87;
 					synchronizations[]={70};
 				};

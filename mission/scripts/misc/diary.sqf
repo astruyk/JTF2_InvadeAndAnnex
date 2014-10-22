@@ -152,11 +152,13 @@ player createDiaryRecord ["teamspeak",
 
 player createDiaryRecord ["teamspeak",
 [
-"Ahoy World",
+"Joint Task Force 2 [JTF2]",
 "
-<br /> Address: ts.ahoyworld.co.uk
+<br /> Address: www.jointtaskforce2.com
 <br />
 <br /> Visitors and guests welcome!
+<br />
+<br /> Just poke an (A)dmin or (M)oderator to get channel access.
 "
 ]];
 

@@ -1,8 +1,8 @@
 //------------------------- On Load
 
 author = Rarek, AhoyWorld, Quiksilver;					// Visible when loading mission
-onLoadName = "Invade & Annex 2.79";						// Visible when loading mission
-OnLoadMission = "Welcome back to the home of Invade and Annex ... Join us on TeamSpeak at ts.ahoyworld.co.uk:9987";
+onLoadName = "Invade & Annex 2.79 (JTF2 v1)";						// Visible when loading mission
+OnLoadMission = "Welcome to Joint Task Force 2 - Join us on teamspeak at www.jointtaskforce2.com";
 loadScreen = "media\images\loading.jpg";				// Visible when loading mission
 overviewPicture = "media\images\loading.jpg";			// Visible when selecting mission	
 
@@ -123,14 +123,14 @@ class Params
 				title = "MINIMUM Time between Priority Target actions";
 				values[] = {30,60,120,180,240,300,600,900};
 				texts[] = {"30 seconds","1 minute","2 minutes","3 minutes","4 minutes","5 minutes","10 minutes","15 minutes"};
-				default = 30; // 120 default
+				default = 120; // 120 default
 			};
 
 		class ArtilleryTargetTickTimeMax {
 				title = "MAXIMUM Time between Priority Target actions";
 				values[] = {30,60,120,180,240,300,600,900};
 				texts[] = {"30 seconds","1 minute","2 minutes","3 minutes","4 minutes","5 minutes","10 minutes","15 minutes"};
-				default = 60; // 300 default
+				default = 300; // 300 default
 			};
 
 		class ArtilleryTargetTickWarning {
@@ -193,14 +193,14 @@ class Params
 				title = "AA Vehicles Patrolling AO";
 				values[] = {0,1,2,3,4};
 				texts[] = {1,2,3,4,5};
-				default = 2; // default 2
+				default = 1; // default 2
 			};
 			
 		class AirPatrol {
 				title = "% Chance Of Air Vehicles Patrolling AO";
 				values[] = {0,1,2,3,4,5,6,7,8,9,10};
 				texts[] = {0,10,20,30,40,50,60,70,80,90,100};
-				default = 7; // default 7
+				default = 3; // default 7
 			};
 			
 		class EasterEggs {
